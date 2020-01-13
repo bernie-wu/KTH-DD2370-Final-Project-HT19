@@ -1,2 +1,6 @@
 # KTH-DD2370-Final-Project-HT19
-Final Project for the course DD2370 in KTH
+DD2370 Computational Methods for Electromagnetics
+Final Project
+Group members:
+WO Kah Jen
+Jay Prakash
